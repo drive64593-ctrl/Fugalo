@@ -1,0 +1,5 @@
+{
+  "name": "AutoSeeding AI",
+  "description": "Ứng dụng tạo nội dung seeding tự động cho Fanpage và Group Facebook/TikTok sử dụng Gemini AI. Tạo kịch bản bình luận, tương tác đa dạng theo nhiều phong cách khác nhau.",
+  "requestFramePermissions": []
+}
